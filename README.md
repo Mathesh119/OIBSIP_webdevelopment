@@ -19,7 +19,7 @@ A responsive web app that converts between Celsius, Fahrenheit, and Kelvin.
 - JavaScript (ES6)
 
 ### Live Demo
-[View Temperature Converter]([https://mathesh119.github.io/OIBSIP_webdevelopment_taskno1/](https://www.linkedin.com/posts/mathesh-n-7173a237a_oasisinfobyte-landingpage-uiux-activity-7361448653573525506-YoFv?utm_medium=ios_app&rcm=ACoAAEYrcfUBCIwQETwouf3-oFZQJ66vNMWFpJs&utm_source=social_share_send&utm_campaign=whatsapp))
+[View Temperature Converter][https://mathesh119.github.io/OIBSIP_webdevelopment_taskno1/](https://www.linkedin.com/posts/mathesh-n-7173a237a_oasisinfobyte-landingpage-uiux-activity-7361448653573525506-YoFv?utm_medium=ios_app&rcm=ACoAAEYrcfUBCIwQETwouf3-oFZQJ66vNMWFpJs&utm_source=social_share_send&utm_campaign=whatsapp)
 
 ---
 
