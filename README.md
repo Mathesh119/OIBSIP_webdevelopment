@@ -19,7 +19,7 @@ A responsive web app that converts between Celsius, Fahrenheit, and Kelvin.
 - JavaScript (ES6)
 
 ### Live Demo
-[View Temperature Converter][https://mathesh119.github.io/OIBSIP_webdevelopment_taskno1/](https://www.linkedin.com/posts/mathesh-n-7173a237a_oasisinfobyte-landingpage-uiux-activity-7361448653573525506-YoFv?utm_medium=ios_app&rcm=ACoAAEYrcfUBCIwQETwouf3-oFZQJ66vNMWFpJs&utm_source=social_share_send&utm_campaign=whatsapp)
+[https://mathesh119.github.io/OIBSIP_webdevelopment_taskno1/](https://www.linkedin.com/posts/mathesh-n-7173a237a_oasisinfobyte-landingpage-uiux-activity-7361448653573525506-YoFv?utm_medium=ios_app&rcm=ACoAAEYrcfUBCIwQETwouf3-oFZQJ66vNMWFpJs&utm_source=social_share_send&utm_campaign=whatsapp)
 
 ---
 
@@ -40,7 +40,7 @@ A responsive portfolio website showcasing my skills and projects.
 - Google Fonts
 
 ### Live Demo
-[View Portfolio]([https://mathesh119.github.io/OIBSIP_webdevelopment_taskno2/](https://www.linkedin.com/posts/mathesh-n-7173a237a_oasisinfobyte-webdesign-portfolio-activity-7361449843875037186-gF1w/?utm_medium=ios_app&rcm=ACoAAEYrcfUBCIwQETwouf3-oFZQJ66vNMWFpJs&utm_source=social_share_send&utm_campaign=whatsapp))
+([https://mathesh119.github.io/OIBSIP_webdevelopment_taskno2/](https://www.linkedin.com/posts/mathesh-n-7173a237a_oasisinfobyte-webdesign-portfolio-activity-7361449843875037186-gF1w/?utm_medium=ios_app&rcm=ACoAAEYrcfUBCIwQETwouf3-oFZQJ66vNMWFpJs&utm_source=social_share_send&utm_campaign=whatsapp))
 
 ---
 
@@ -61,7 +61,7 @@ A conversion-focused landing page with responsive design.
 - Vanilla JavaScript
 
 ### Live Demo
-[View Landing Page]([https://mathesh119.github.io/OIBSIP_webdevelopment_taskno3/](https://www.linkedin.com/posts/mathesh-n-7173a237a_oasisinfobyte-webdevelopment-codingjourney-activity-7361450748397686785-dM4a/?utm_medium=ios_app&rcm=ACoAAEYrcfUBCIwQETwouf3-oFZQJ66vNMWFpJs&utm_source=social_share_send&utm_campaign=copy_link))
+([https://mathesh119.github.io/OIBSIP_webdevelopment_taskno3/](https://www.linkedin.com/posts/mathesh-n-7173a237a_oasisinfobyte-webdevelopment-codingjourney-activity-7361450748397686785-dM4a/?utm_medium=ios_app&rcm=ACoAAEYrcfUBCIwQETwouf3-oFZQJ66vNMWFpJs&utm_source=social_share_send&utm_campaign=copy_link))
 
 ---
 
